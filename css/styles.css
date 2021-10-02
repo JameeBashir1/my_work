@@ -54,3 +54,9 @@
 .s_icons{
   padding: 5%
 }
+@@media max width(1028px) {
+  body{
+    width: 100%;
+  }
+
+}
