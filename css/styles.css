@@ -5,9 +5,6 @@
   padding-top: 3%;
   font-family: 'Stick No Bills', sans-serif;
 }
-.body{
-  width:auto;
-}
 /* heading */
 .heading h1{
   font-family: 'Bonheur Royale', cursive;
@@ -65,4 +62,11 @@
 .tick_icon{
   color: green;
   padding: 1%;
+}
+/* divs */
+.brand{
+  width: 100%;
+}
+.main{
+  padding: 100%;
 }
