@@ -1,0 +1,51 @@
+/* brand */
+.brand{
+  font-family: serif;
+  padding-left: 10%;
+  padding-top: 3%;
+  font-family: 'Stick No Bills', sans-serif;
+}
+/* heading */
+.heading h1{
+  font-family: 'Bonheur Royale', cursive;
+}
+.heading h2{
+  font-family: 'Barlow', sans-serif;
+}
+.heading{
+  padding-left: 10%;
+  padding-top: 3%;
+  text-align: left;
+  width: 50%;
+  font-weight: lighter;
+}
+/* Profile */
+.my_profile{
+  width: 20%;
+  position: absolute;
+  left:70%;
+}
+/* table */
+.table_heading{
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Oxygen', sans-serif;
+}
+.work_table{
+  margin-left: 10%;
+  margin-top: 5%;
+  width: 70%;
+}
+.row_top{
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+/* Contact section */
+.contact_section{
+  text-align: center;
+  padding: 3%;
+}
+.s_icons{
+  padding: 5%
+}
