@@ -5,6 +5,9 @@
   padding-top: 3%;
   font-family: 'Stick No Bills', sans-serif;
 }
+.body{
+  width:auto;
+}
 /* heading */
 .heading h1{
   font-family: 'Bonheur Royale', cursive;
@@ -51,13 +54,15 @@
   text-align: center;
   padding: 3%;
 }
+/* icions */
 .s_icons{
   padding: 5%
 }
-@media (max-width: 1028px){
-  body{
-    width: 100%;
-    height: 100%;
-  }
-
+.cross_icon{
+  color: red;
+  padding: 1%;
+}
+.tick_icon{
+  color: green;
+  padding: 1%;
 }
