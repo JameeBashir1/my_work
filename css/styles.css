@@ -67,13 +67,17 @@
 @media (max-width: 1028px) {
   .heading h2{
     font-size: 1rem;
-    width: 90%;
+    width: 100%;
   }
 .work_table{
-  width: 100%;
+  position: relative;
+  padding: 0;
 }
 .table_heading{
   text-align: center;
   font-size: 2rem;
+}
+.my_profile{
+  width: 30%;
 }
 }
