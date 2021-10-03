@@ -63,10 +63,18 @@
   color: green;
   padding: 1%;
 }
-/* divs */
-.brand{
-  width: 100%;
-}
-.main{
-  padding: 100%;
+@media (max-width: 1028px){
+  .brand{
+    font-size: 4rem;
+  }
+  .heading{
+    font-size: 3rem;
+  }
+  .my_profile{
+    20%;
+  }
+  .work_table{
+    width: 80%;
+    }
+  }
 }
