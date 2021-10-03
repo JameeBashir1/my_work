@@ -80,4 +80,10 @@
 .my_profile{
   width: 30%;
 }
+.brand, .heading{
+  margin-left: 0;
+}
+.work_table{
+  margin-left: 5%;
+}
 }
