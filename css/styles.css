@@ -63,3 +63,12 @@
   color: green;
   padding: 1%;
 }
+/* media query */
+@media (max-width: 1028px) {
+  .heading h2{
+    font-size: 1rem;
+  }
+.work_table{
+  width: 60%;
+}
+}
