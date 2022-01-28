@@ -20,15 +20,25 @@
   font-weight: lighter;
 }
 .contact_btn{
-  position: relative;
+  position: absolute;
   left: 70%;
-  top: 5%;
+  top:7%;
 }
 /* Profile */
 .my_profile{
   width: 20%;
   position: absolute;
-  left:70%;
+  left:60%;
+  top:20%;
+}
+
+/* Blinking exclimation */
+.exclimation{
+  animation: blink 0.8s linear infinite;
+}
+@keyframes blink {
+  0%{opacity: 0;}
+  100%{opacity: 1;}
 }
 /* table */
 .table_heading{
